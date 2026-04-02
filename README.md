@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://imgur.com/a/b4qwSpB" width="400">
+<img src="synthwaveSun.gif" width="400">
 </p>
 
 ---
