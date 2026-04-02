@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-Actualmente me estoy formando como desarrollador de software a través de una tecnicatura, luego de haber comenzado de manera autodidacta.
+Actualmente me estoy formando como desarrollador de software a través de la Tecnicatura Superior en Desarrollo de Software dictada por el IFTS N° 29, luego de haber comenzado de manera autodidacta y continuado con cursos de SCEU-FRBA-UTN, Codo a Codo y Talento Tech.
 
 Me interesa entender cómo funcionan los sistemas tanto en frontend como en backend, y seguir creciendo mediante proyectos reales.
 
