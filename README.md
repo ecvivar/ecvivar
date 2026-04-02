@@ -50,7 +50,7 @@ Aplicación mobile desarrollada con React Native para consultar el clima, visual
 
 ### 🗄️ Base de datos
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongo" />
 </p>
 
 ---
