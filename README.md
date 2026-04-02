@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+<img src="img/synthwave.gif" width="400">
 </p>
 
 ---
