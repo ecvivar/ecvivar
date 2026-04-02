@@ -65,7 +65,8 @@ Aplicación mobile desarrollada con React Native para consultar el clima, visual
 
 ## 🎯 Actualmente
 
-- 📚 Aprendiendo más sobre desarrollo fullstack  
+- 📚 Aprendiendo más sobre desarrollo fullstack
+- ☁️ Explorando tecnologías cloud y aprendiendo desarrollo de sistemas en la nube.  
 - ⚙️ Mejorando mis habilidades en frontend y backend  
 - 🚀 Construyendo proyectos para seguir creciendo  
 
