@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="img/synthwave.gif" width="400">
+<img src="synthwave.gif" width="400">
 </p>
 
 ---
