@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="https://drive.google.com/drive/u/0/my-drive" width="400">
+<img src="https://imgur.com/a/b4qwSpB" width="400">
 </p>
 
 ---
