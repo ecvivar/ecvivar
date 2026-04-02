@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-<img src="synthwaveSun.gif" width="400">
+<img src="https://drive.google.com/drive/u/0/my-drive" width="400">
 </p>
 
 ---
